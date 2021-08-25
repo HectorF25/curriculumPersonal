@@ -1456,7 +1456,7 @@ input::-moz-focus-inner {
 
 .section-desc-contact {
     font-family: "Frank Ruhl Libre", serif;
-    font-size: 5.4rem;
+    font-size: 3.4rem;
     font-weight: 400;
     line-height: 1.259;
     letter-spacing: -0.05rem;
@@ -2298,7 +2298,6 @@ input::-moz-focus-inner {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    background-image: url(../images/services-bg.jpg);
     color: rgba(255, 255, 255, 0.7);
     position: relative;
 }
@@ -2705,7 +2704,7 @@ input::-moz-focus-inner {
     margin-top: 12.8rem;
     font-family: "Frank Ruhl Libre", serif;
     font-weight: 400;
-    font-size: 4.2rem;
+    font-size: 3.2rem;
     line-height: 1.333;
 }
 
@@ -2785,7 +2784,7 @@ input::-moz-focus-inner {
         font-size: 7.2rem;
     }
     .contact-infos {
-        font-size: 3.8rem;
+        font-size: 3.5rem;
     }
     .contact-infos h4 {
         font-size: 1.8rem;
@@ -2797,7 +2796,7 @@ input::-moz-focus-inner {
         padding-top: 16rem;
     }
     .contact-email {
-        font-size: 9vw;
+        font-size: 7.2vw;
     }
     .contact-infos {
         font-size: 3.6rem;
@@ -2815,7 +2814,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:400px) {
     .contact-infos {
-        font-size: 3rem;
+        font-size: 3.4rem;
     }
 }
 
